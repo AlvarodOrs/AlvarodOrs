@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alvarodorsnestares@gmail.com**
 
-- 📄 Know about my experiences [linkCV]
+- 📄 Know about my experiences [here]
   <!---
   (linkCV)
   -->
