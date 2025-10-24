@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=0e75b6&style=flat" alt="alvarodors" /> </p>
 
-- 🔭 I’m currently working on [own private and uncensored AI](linkAI)
+- 🔭 I’m currently working on [own private and uncensored AI]
+- <!---
+  (linkAI)
+  -->
 
 - 📫 How to reach me **alvarodorsnestares@gmail.com**
 
-- 📄 Know about my experiences [linkCV](linkCV)
+- 📄 Know about my experiences [linkCV]
+- <!---
+  (linkCV)
+  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
