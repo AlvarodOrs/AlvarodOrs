@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=0e75b6&style=flat" alt="alvarodors" /> </p>
 
-- 🔭 I’m currently working on [my own coding assistant]
-  <!---
-  (linkAI)
-  -->
+- 🔭 I’m currently working on [my own coding assistant](https://github.com/AlvarodOrs/Gideon)
 
 - 📫 How to reach me **alvarodorsnestares@gmail.com**
 
