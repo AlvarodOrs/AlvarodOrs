@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=0e75b6&style=flat" alt="alvarodors" /> </p>
 
-- 🔭 I’m currently working on [my own coding assistant](https://github.com/AlvarodOrs/Gideon)
+- 🔭 I’m currently working on [my own coding assistant](https://github.com/AlvarodOrs)
 
-- 📫 How to reach me **alvarodorsnestares@gmail.com**
+- 📫 How to reach me **alvaro.dors@proton.me**
 
 - 📄 Know about my experiences [here]
   <!---
