@@ -44,13 +44,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/dors-alvaro) or send m
 # 🛠 Technical Skills
 
 ## Programming & Scripting
-Python  |  C  |  C++  |  Bash  |  JavaScript  |  TypeScript
+Python  |  C  |  C++  |  Java  |  JavaScript  |  TypeScript
 
 ## Systems, Servers & DevOps
-Linux  |  Windows  |  Git  |  Docker  |  Nginx
+Linux  |  Windows OS  |  Bash  |  Git  |  Docker  |  Nginx
 
 ## Web Development
-HTML  |  CSS  |  PHP
+HTML5  |  CSS3  |  PHP
 
 ## Tools, Modeling & Hardware
 Arduino  |  Raspberry Pi
