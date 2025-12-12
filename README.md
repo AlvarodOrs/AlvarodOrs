@@ -54,5 +54,3 @@ HTML5  |  CSS3  |  PHP
 
 ## Tools, Modeling & Hardware
 Arduino  |  Raspberry Pi
-
-<img src="https://t.bkit.co/w_693c9dbca336b.gif" />
