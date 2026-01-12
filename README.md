@@ -21,25 +21,29 @@ I’m also actively improving my Java skills, exploring backend architectures, a
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dors-alvaro) or send me a message via [this form](https://formspree.io/f/xdkqypkz) 
 
 ---
-<h1>📊 GitHub Stats
-<img align="right" src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=blueviolet&style=flat-square"/>
+<h1>📊 GitHub Stats<h1>
+<img align="center" src="https://raw.githubusercontent.com/AlvarodOrs/GitStats/refs/heads/main/img/Álvaro_d'Ors_Nestares-oss-stats-card.svg"/>
+
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=blueviolet&style=flat-square"/>
 </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlvarodOrs&theme=ambient_gradient&hide_border=false&count_private=true&include_all_commits=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AlvarodOrs&theme=ambient_gradient&hide_border=false"/><br/>
 </p>
+-->
 
 <!-- # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvarodOrs&theme=ambient_gradient&margin-w=4"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvarodOrs&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=AlvarodOrs&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true"/>
 </p>
+--- -->
 
----
+
 
 # 🛠 Technical Skills
 
