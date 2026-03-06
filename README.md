@@ -22,7 +22,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/dors-alvaro) or send m
 
 ---
 <h1>📊 GitHub Stats<h1>
-<img align="center" src="https://raw.githubusercontent.com/AlvarodOrs/GitStats/refs/heads/main/img/Álvaro_d'Ors_Nestares-oss-stats-card.svg"/>
+<img align="center" src="https://alvarodors.github.io/GitStats/img/AlvarodOrs-profesional-stats-card.svg"/>
 
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=alvarodors&label=Profile%20views&color=blueviolet&style=flat-square"/>
 </h1>
