@@ -21,7 +21,7 @@ I’m also actively improving my Java skills, exploring backend architectures, a
 - LinkedIn: [linkedin.com/in/dors-alvaro](https://www.linkedin.com/in/dors-alvaro)
 
 - Contact form (recommended):  
-  <a href="./contact/index.html">
+  <a href="https://alvarodors.github.io/AlvarodOrs/contact/">
     👉 Send me a message
   </a>
 
