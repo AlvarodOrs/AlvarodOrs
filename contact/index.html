@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact | Álvaro d'Ors Nestares</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 60px auto;
+      padding: 0 20px;
+      background: #0d1117;
+      color: #e6edf3;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #9da7b1;
+      margin-bottom: 30px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    input, textarea {
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #30363d;
+      background: #161b22;
+      color: #e6edf3;
+    }
+
+    button {
+      padding: 10px;
+      border: none;
+      border-radius: 6px;
+      background: #238636;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background: #2ea043;
+    }
+
+    a {
+      color: #58a6ff;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Contact</h1>
+  <p>Backend engineering, automation, and tooling projects. Send a message below.</p>
+
+  <form action="https://formspree.io/f/xdkqypkz" method="POST">
+    
+    <input type="email" name="email" placeholder="Your email" required />
+
+    <textarea name="message" rows="6" placeholder="Your message" required></textarea>
+
+    <button type="submit">Send message</button>
+  </form>
+
+  <p style="margin-top: 30px;">
+    Or connect on <a href="https://www.linkedin.com/in/dors-alvaro">LinkedIn</a>
+  </p>
+
+</body>
+</html>

@@ -18,7 +18,12 @@ I’m also actively improving my Java skills, exploring backend architectures, a
 ---
 ## 📬 Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/dors-alvaro) or send me a message via [this form](https://formspree.io/f/xdkqypkz) 
+- LinkedIn: [linkedin.com/in/dors-alvaro](https://www.linkedin.com/in/dors-alvaro)
+
+- Contact form (recommended):  
+  <a href="/contact/index.html" target="_blank">
+    👉 Send me a message
+  </a>
 
 ---
 <h1>📊 GitHub Stats<h1>
